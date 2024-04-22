@@ -1,0 +1,27 @@
+body{
+   background-color: rgb(247, 228, 194);
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.texto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+*{
+    padding: 15px;
+    min-width: 500px;
+    max-width: 800px;
+}
+
+header{
+    box-shadow:15px, 15px, 15px, 15px;
+    text-align: center;
+    background-color: rgb(9, 126, 9);
+}
